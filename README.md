@@ -8,7 +8,7 @@ The dashboard allows users to explore key aspects of coffee sales, track perform
 
 ## Project Objectives
 
-The goal of this project is to create an interactive Excel dashboard that provides clear insights into coffee sales performance. Specifically, the objectives of this project were to:
+The goal of this project was to create an interactive Excel dashboard that provides clear insights into coffee sales performance. Specifically, the objectives of this project were to:
 
 - Display total sales over time through a dynamic chart.          
 - Show sales performance by country, highlighting differences across regions.
@@ -24,7 +24,7 @@ The goal of this project is to create an interactive Excel dashboard that provid
 
 This project uses three primary [datasets](https://github.com/bilalayub10/Excel_Coffee_Sales_Dashboard_Project/blob/main/coffeeOrdersData.xlsx) to drive the analysis and visualizations in the dashboard:
 
-1. **Orders Data**: Contains detailed information about each coffee order, including order ID, order date, customer id, product id and quantity.
+1. **Orders Data**: Contains detailed information about each coffee order, including order ID, order date, customer ID, product ID and quantity.
   
 2. **Customers Data**: Includes information about each customer, such as customer ID, customer name, email, phone number, address, city, country, postcode, and their loyalty card status. 
 
@@ -72,7 +72,7 @@ Below is a screenshot of the finalized coffee sales dashboard created in Excel.
 
 ## Acknowledgments
 
-This project was created with the help of a tutorial by [Mo Chen](https://www.youtube.com/watch?v=m13o5aqeCbM) on his YouTube channel. The tutorial provided valuable guidance in building the coffee sales dashboard using Excel. 
+This project was created with the help of a [tutorial](https://www.youtube.com/watch?v=m13o5aqeCbM) by Mo Chen on his YouTube channel. The tutorial provided valuable guidance in building the coffee sales dashboard using Excel. 
 
 
 
