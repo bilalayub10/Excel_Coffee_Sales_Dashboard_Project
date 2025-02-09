@@ -63,7 +63,7 @@ The data processing and analysis for this project involved several key steps to 
 
 7. **Dashboard Creation**:
    - All the pivot charts, timeline, and slicers were combined into a new sheet called the **Dashboard**.
-   - The final dashboard was formatted and organized to provide an intuitive, interactive view of the coffee sales data, allowing users to explore the data in a meaningful way. [Click to see Complete Project Excel File](Project (Coffee Sales Dashboard).xlsx)
+   - The final dashboard was formatted and organized to provide an intuitive, interactive view of the coffee sales data, allowing users to explore the data in a meaningful way. [Click to see Complete Project Excel File](https://github.com/bilalayub10/Excel_Coffee_Sales_Dashboard_Project/blob/main/Project%20(Coffee%20Sales%20Dashboard).xlsx)
 
 Below is a screenshot of the finalized coffee sales dashboard created in Excel.
 
