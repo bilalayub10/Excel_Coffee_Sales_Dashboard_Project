@@ -22,7 +22,7 @@ The goal of this project is to create an interactive Excel dashboard that provid
 
 ## Data Sources
 
-This project uses three primary ![datasets](https://github.com/bilalayub10/Excel_Coffee_Sales_Dashboard_Project/blob/main/coffeeOrdersData.xlsx) to drive the analysis and visualizations in the dashboard:
+This project uses three primary [datasets](https://github.com/bilalayub10/Excel_Coffee_Sales_Dashboard_Project/blob/main/coffeeOrdersData.xlsx) to drive the analysis and visualizations in the dashboard:
 
 1. **Orders Data**: Contains detailed information about each coffee order, including order ID, order date, customer id, product id and quantity.
   
